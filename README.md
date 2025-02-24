@@ -10,8 +10,7 @@ The CubeSat is built using an Arduino Nano, DHT22 for temperature and humidity, 
 
 ## **CubeSat Goals**  
 - **Calibrate Sensors** – Ensure all sensors give correct readings.  
-- **Send Data** – Transmit real-time altitude, temperature, humidity, pressure, and location using the 433 MHz RF module.  
-- **Save Data** – Store sensor readings for later use.  
+- **Send Data** – Transmit real-time altitude, temperature, humidity, pressure, and location using the 433 MHz RF module.   
 - **Track Weather & Altitude** – Measure environmental conditions.  
 - **Find Location** – Update GPS coordinates in real-time.  
 - **Communicate Wirelessly** – Use a patch antenna for stable data transmission.  
